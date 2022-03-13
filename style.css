@@ -852,9 +852,13 @@ body:before {
   .news .left {
     left: 20px;
   }
+  .sec1 .dialog,
+  .sec1 .trueid {
+    width: 0px;
+  }
   .card-wrap .card {
-    width: 82px;
-    height: 105px;
+    width: 0px;
+    height: 0px;
   }
   .card .btn-claim {
     width: 100%;
