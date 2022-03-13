@@ -852,10 +852,6 @@ body:before {
   .news .left {
     left: 20px;
   }
-  .sec1 .dialog,
-  .sec1 .trueid {
-    width: 300px;
-  }
   .card-wrap .card {
     width: 82px;
     height: 105px;
